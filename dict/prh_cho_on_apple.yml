@@ -1,14 +1,14 @@
 # 長音有無のリスト。Appleプラットフォーム用。
 rules:
-  - pattern: /コンピューター
+  - pattern: /コンピューター/
     expected: コンピュータ
     prh: Appleプラットフォームでは長音を付けません（外来語カタカナ表記）
 
-  - pattern: /サブフォルダー
+  - pattern: /サブフォルダー/
     expected: サブフォルダ
     prh: Appleプラットフォームでは長音を付けません（外来語カタカナ表記）
 
-  - pattern: /フォルダー
+  - pattern: /フォルダー/
     expected: フォルダ
     prh: Appleプラットフォームでは長音を付けません（外来語カタカナ表記）
 
