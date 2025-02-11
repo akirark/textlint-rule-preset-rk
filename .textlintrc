@@ -11,7 +11,7 @@
     },
     "prh": {
       "rulePaths": [
-         "./dict/prh.yml"
+         "./dict/prh_root.yml"
       ]
     }
   }
