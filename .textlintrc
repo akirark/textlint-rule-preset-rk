@@ -1,30 +1,13 @@
 {
   "rules": {
-    "preset-japanese": {
-      "sentence-length": {
-        "max": 150
-      },
-      "max-ten": {
-        "max": 3
-      },
-      "no-doubled-joshi": {
-        "min_interval" : 1,
-        "strict": false,
-        "allow": ["も", "や", "か"],
-        "separatorCharacters": ["、", "。", "?", "!", "？", "！", "「",  "」", "“", "”", "/", "／"]
-      },
-      "no-mix-dearu-desumasu": true
+    "preset-ja-technical-writing": {
+      "arabic-kanji-numbers": false,
+      "no-exclamation-question-mark": false
     },
     "preset-jtf-style": {
-      "1.2.1.句点(。)と読点(、)": true,
-      "1.2.2.ピリオド(.)とカンマ(,)": true,
-      "2.1.8.算用数字": true,
-      "2.2.2.算用数字と漢数字の使い分け": true,
-      "3.1.1.全角文字と半角文字の間": true,
-      "3.1.2.全角文字どうし": true,
-      "4.3.2.大かっこ［］": true,
-      "4.2.6.ハイフン(-)": true,
-      "4.3.1.丸かっこ（）": true
+      "3.3.かっこ類と隣接する文字の間のスペースの有無": false,
+      "4.1.1.句点(。)": false,
+      "4.3.1.丸かっこ（）": false
     },
     "prh": {
       "rulePaths": [
