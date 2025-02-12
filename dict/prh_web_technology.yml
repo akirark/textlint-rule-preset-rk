@@ -278,3 +278,6 @@ rules:
   - expected: ハードウェア
     pattern: ハードウェアー
     prh: （技術用語）
+  - expected: ウインドウ
+    pattern: ウィンドウ
+    prh: （技術用語）
