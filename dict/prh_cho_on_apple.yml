@@ -19,3 +19,7 @@ rules:
   - pattern: /インストーラー/
     expected: インストーラ
     prh: Appleプラットフォームでは長音を付けません（外来語カタカナ表記）
+
+  - pattern: /デバッガー/
+    expected: デバッガ
+    prh: Appleプラットフォームでは長音を付けません（外来語カタカナ表記）
