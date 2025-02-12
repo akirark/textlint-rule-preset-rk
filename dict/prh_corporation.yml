@@ -64,3 +64,21 @@ rules:
   - expected: 青春18きっぷ
     patterns: 青春18切符
     prh: （固有名詞）
+  - expected: Apple
+    patterns:
+      - アップル
+      - アップル社
+      - Apple社
+    prh: （固有名詞）
+  - expected: Microsoft
+    patterns:
+      - マイクロソフト
+      - マイクロソフト社
+      - Microsoft社
+    prh: （固有名詞）
+  - expected: Google
+    patterns:
+      - グーグル
+      - グーグル社
+      - Google社
+    prh: （固有名詞）

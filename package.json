@@ -1,6 +1,6 @@
 {
   "name": "textlint-rule-preset-rk",
-  "version": "1.0.0+07",
+  "version": "1.0.0+08",
   "description": "アールケー開発 で利用されているテキストリントのルールです",
   "repository": "https://github.com/akirark/textlint-rule-preset-rk.git",
   "author": "Akira Hayashi <18578209+akirark@users.noreply.github.com>",
